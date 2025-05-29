@@ -30,9 +30,10 @@
 }
 
 .menu a:hover {
-    background-color: #f7e1ee
+    background-color: #f7e1ee;
     border-radius: 4px;
     color: #000;
+    
 }
 
 
