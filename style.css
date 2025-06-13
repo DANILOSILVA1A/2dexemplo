@@ -130,7 +130,7 @@ body {
 
 @media screen and (min-width: 368px) {
     .principal {
-        background-image: url(../img/campos.jpg);
+        background-image: url(../img/camposs.jpg);
         background-repeat: no-repeat;
         background-size: cover;
         padding-top: 3.25rem;
@@ -154,7 +154,7 @@ body {
         margin-bottom: 2rem;
     }
     .principal {
-        background-image: url(img/campos.jpg);
+        background-image: url(img/camposs.jpg);
         background-size: cover;
 
         padding-top: 3.25rem;
@@ -191,7 +191,7 @@ body {
     }
 
   .principal {
-        background-image: url(img/campos.jpg);
+        background-image: url(img/camposs.jpg);
         background-size: cover;
 
         padding-top: 3.25rem;
